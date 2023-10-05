@@ -1,0 +1,13 @@
+package com.tarot.tarot_server;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TarotServerApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(TarotServerApplication.class, args);
+    }
+
+}
